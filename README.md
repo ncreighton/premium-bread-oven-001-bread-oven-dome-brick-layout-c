@@ -1,0 +1,2 @@
+# premium-bread-oven-001-bread-oven-dome-brick-layout-c
+Spending weeks hand-calculating brick patterns and dome angles for your bread oven build is costing you time and risking structural flaws. The Bread Oven Dome Brick Layout Calculator eliminates guesswork and gives you a precise, ready-to-build layout in minutes.  This Notion template transforms complex geometry into a simple, visual brick-by-brick
